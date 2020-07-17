@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Katre</h1>
-<h3 align="center">A developer from India | Tech Enthusiast | Jack of all Trades, Master of SOME</h3>
+<h1 align="center">👋 I'm Deepak Katre</h1>
+<h3 align="center">Indian | Tech Enthusiast | Jack of all Trades, Master of SOME</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdotexe" alt="deepakdotexe" /> </p>
 
 - 💬 Ask me about **android and flutter and what not about tech around us.**
@@ -11,5 +11,5 @@
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepakdotexe&show_icons=true" alt="deepakdotexe" /> </p>
 
 <p align="center">
-<a href="https://twitter.com/deepak__katre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepak__katre" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/deepak-katre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-katre" height="20" width="20" /></a>
 </p>
