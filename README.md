@@ -6,10 +6,72 @@
 
 - 📫 How to reach me **katredeeps@gmail.coom**
 
-- ⚡ I am crazy for **Bikaji Bhujia **
-
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepakdotexe&show_icons=true" alt="deepakdotexe" /> </p>
+**OR**  
 
 <p align="center">
-<a href="https://linkedin.com/in/deepak-katre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-katre" height="20" width="20" /></a>
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deepakdotexe&show_icons=true" alt="deepakdotexe" /> </p>
+
+<br>
+<table>
+<tbody>
+<tr>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JAVA</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
+</td>
+
+<img src=""/>
+
+<td align="center" width="20%">
+<span><b><center>Dart</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/dart.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Android</center></b></span> 
+<img height=65px src="https://img.icons8.com/fluent/48/000000/android-os.png"> 
+</td>
+
+  
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Firebase</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/firebase.png"> 
+</td>
+
+</tr>
+
+</tbody>
+</table>
