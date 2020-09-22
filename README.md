@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Deepak Katre</h1>
-<h3 align="center">Indian | Tech Enthusiast | Jack of all Trades, Master of SOME</h3>
+<h3 align="center">Developer based in India | Loves Flutter</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdotexe" alt="deepakdotexe" /> </p>
 
 - 💬 Ask me about **android and flutter and what not about tech around us.**
@@ -9,10 +9,10 @@
 
 
 <p align="center">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img  alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img  alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </p>
 
 
@@ -31,8 +31,6 @@
 <img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
 </td>
 
-<img src=""/>
-
 <td align="center" width="20%">
 <span><b><center>Dart</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/dart.png"> 
@@ -45,13 +43,10 @@
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
-
 <td align="center" width="20%">
 <span><b><center>Android</center></b></span> 
 <img height=65px src="https://img.icons8.com/fluent/48/000000/android-os.png"> 
-</td>
-
-  
+</td>  
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
@@ -69,8 +64,10 @@
 <span><b><center>Firebase</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/firebase.png"> 
 </td>
-
 </tr>
-
 </tbody>
 </table>
+
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deepakdotexe&show_icons=true" alt="deepakdotexe" /> </p>
